@@ -1,0 +1,15 @@
+body{
+    background: #ccc;
+}
+
+#button{
+    cursor: pointer;
+    
+
+}
+ #button:hover{
+    background-color: darkgrey;
+    
+ }
+
+    
